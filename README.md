@@ -1,65 +1,96 @@
-# Hi there, I'm Nishandhini S 👋
+<h1 align="center">Hi 👋, I'm Nishandhini S</h1>
 
-🎓 Final Year Electronics and Communication Engineering Student
-
-## 🚀 About Me
-
-I am passionate about Embedded Systems, IoT, EV Charging Systems, and AI-powered Embedded Applications. I enjoy designing hardware-software integrated solutions and continuously learning new technologies.
+<h3 align="center">
+Electronics & Communication Engineering Student | Embedded Systems | IoT | RF Engineering
+</h3>
 
 ---
 
-## 💻 Technical Skills
+## 👩‍💻 About Me
+
+- 🎓 Final Year B.E. Electronics and Communication Engineering (ECE)
+- 💡 Passionate about Embedded Systems, IoT, PCB Design, RF Engineering, and AI-based applications
+- 🌱 Currently learning Embedded Linux, STM32, and Advanced Embedded Systems
+- 📫 Reach me on LinkedIn: www.linkedin.com/in/nishandhini031105
+- 💻 GitHub: https://github.com/Nishandhini0311
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
+
 - C
 - Python
+- MATLAB / GNU Octave
 
-### Embedded Systems
+### Embedded & IoT
+
 - Arduino
 - ESP32
-- STM32 
+- Embedded Systems
+- IoT
+- ThingSpeak
 
-### Software & Tools
-- MATLAB
+### Simulation & Design
+
 - LTspice
+- OpenEMS
 - KiCad
-- Arduino IDE
-- Git & GitHub
+- PCB Design
 
-### AI & IoT
-- OpenCV
-- TensorFlow Lite
-- ESP32
-- IoT Development
+### Web Technologies
 
----
+- Flask
+- HTML
+- CSS
+- MySQL
 
-## 📂 Featured Projects
+### AI & Computer Vision
 
-🔋 Controller Design for EV Charging Station
-
-🚗 Vehicle Safety and Driver Monitoring System
-
-🚫 No Parking Detection Web Service
-
-🌱 IoT-Based Smart Irrigation System
-
-📡 Patch Antenna with Metamaterial Superstrate
+- YOLO
+- OCR (Tesseract)
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-- STM32 Development
-- RTOS
-- CAN Communication
-- Edge AI
+### 🔋 EV Charging Station Controller Design
+
+Designed and simulated a **160 kW DC Fast EV Charging Station Controller** using MATLAB and LTspice.
+
+🔗 https://github.com/Nishandhini0311/EV-Charging-Station-Controller
 
 ---
 
-## 📫 Connect with Me
+### 🚫 AI-Based No Parking Detection Web Service
 
-- LinkedIn: https://www.linkedin.com/in/nishandhini031105
-- Email: nishandhinikumar0311@gmail.com
+Vehicle detection, OCR-based number plate recognition, automatic fine generation, and SMS notification using ESP32-CAM, YOLO, Flask, MySQL, and Twilio.
 
-Thanks for visiting my profile! ⭐
+🔗 https://github.com/Nishandhini0311/No-Parking-Detection-Web-Service
+
+---
+
+### 🚗 Vehicle Safety and Driver Monitoring System
+
+IoT-based driver monitoring system using ESP32, MAX30102, MPU6050, GPS, LiDAR, and ThingSpeak.
+
+🔗 https://github.com/Nishandhini0311/Vehicle-Safety-and-Driver-Monitoring-System
+
+---
+
+### 📡 Patch Antenna with Metamaterial Superstrate
+
+Designed and simulated a **2.45 GHz Microstrip Patch Antenna** using GNU Octave and OpenEMS.
+
+🔗 https://github.com/Nishandhini0311/Patch-Antenna-with-Metamaterial-Superstrate
+
+---
+
+## 🎯 Career Objective
+
+Aspiring Embedded Systems Engineer seeking opportunities to develop innovative embedded and IoT solutions while expanding my knowledge in firmware development, hardware design, and intelligent electronic systems.
+
+---
+
+⭐ Thank you for visiting my profile!
